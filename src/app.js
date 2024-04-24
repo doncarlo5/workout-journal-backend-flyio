@@ -18,14 +18,10 @@ app.use(helmet());
 const FRONTEND_URL = process.env.FRONTEND_ORIGIN_URL || "http://localhost:3000";
 
 module.exports = (app) => {
-  app.set("trust proxy", 1);
+  // app.set("trust proxy", 1);
 
   // controls a very specific header to pass headers from the frontend
-  app.use(
-    cors({
-      origin: [FRONTEND_URL],
-    })
-  );
+  app.use(cors());
 
   app.use(express.json());
   app.use(express.urlencoded({ extended: false }));
@@ -42,5 +38,12 @@ app.use("/api", api);
 
 app.use(middlewares.notFound);
 app.use(middlewares.errorHandler);
+
+const port = process.env.PORT || 3000;
+app.listen(port, () => {
+  /* eslint-disable no-console */
+  console.log(`Listening: http://localhost:${port}`);
+  /* eslint-enable no-console */
+});
 
 module.exports = app;
