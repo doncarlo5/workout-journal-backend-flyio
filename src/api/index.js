@@ -3,7 +3,7 @@ const router = express.Router();
 
 const auth = require("./auth");
 const sessions = require("./sessions");
-const exerciseUser = require("./exercise-user");
+const exerciseUser = require("./exercise-user.js");
 const exerciseType = require("./exercise-type");
 const emojis = require("./emojis");
 
