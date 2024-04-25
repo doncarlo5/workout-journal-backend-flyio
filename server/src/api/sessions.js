@@ -38,14 +38,14 @@ router.get("/", isAuthenticated, async (req, res, next) => {
 
 router.get("/:id", async (req, res, next) => {
   try {
-    const session = await session.findOne({ _id: req.params.id }).populate({
+    const oneSession = await Session.findOne({ _id: req.params.id }).populate({
       path: "exercise_user_list",
       populate: {
         path: "type",
       },
     });
 
-    res.json(session);
+    res.json(oneSession);
   } catch (error) {
     next(error);
   }
@@ -113,14 +113,14 @@ router.put("/:id", async (req, res, next) => {
 router.delete("/:id", async (req, res, next) => {
   try {
     // find session
-    const session = await session.findOne({ _id: req.params.id });
+    const session = await Session.findOne({ _id: req.params.id });
 
     // update and delete all exercise-user documents associated with that session with deleteMany
 
     const deleteExerciseUser = await ExerciseUser.deleteMany({
       session: req.params.id,
     });
-    const deleteSession = await session.findOneAndDelete({
+    const deleteSession = await Session.findOneAndDelete({
       _id: req.params.id,
     });
 
