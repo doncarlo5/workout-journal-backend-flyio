@@ -18,11 +18,7 @@ app.use(helmet());
 
 const FRONTEND_URL = process.env.FRONTEND_ORIGIN_URL || "http://localhost:3000";
 
-app.use(
-  cors({
-    origin: ["http://localhost:3000", FRONTEND_URL],
-  })
-);
+app.use(cors());
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
