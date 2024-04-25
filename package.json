@@ -2,10 +2,10 @@
   "name": "express-api-starter",
   "version": "1.2.0",
   "description": "A basic starter for an express.js API",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
     "lint": "eslint --fix src",
     "test": "jest",
     "vercel-build": "echo hello"

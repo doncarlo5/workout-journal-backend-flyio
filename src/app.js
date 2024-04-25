@@ -2,6 +2,7 @@ const express = require("express");
 const morgan = require("morgan");
 const helmet = require("helmet");
 const cors = require("cors");
+const cookieParser = require("cookie-parser");
 
 require("dotenv").config();
 
@@ -17,16 +18,11 @@ app.use(helmet());
 
 const FRONTEND_URL = process.env.FRONTEND_ORIGIN_URL || "http://localhost:3000";
 
-module.exports = (app) => {
-  // app.set("trust proxy", 1);
+app.use(cors());
 
-  // controls a very specific header to pass headers from the frontend
-  app.use(cors());
-
-  app.use(express.json());
-  app.use(express.urlencoded({ extended: false }));
-  app.use(cookieParser());
-};
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+app.use(cookieParser());
 
 app.get("/", (req, res) => {
   res.json({
