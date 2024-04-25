@@ -19,7 +19,7 @@ router.get("/", async (req, res, next) => {
 
     let query = { owner: req.user._id };
     if (typeSession) {
-      query.typeSession = typeSession;
+      query.type_session = typeSession;
     }
 
     const exerciseUsers = await ExerciseType.find(query)
