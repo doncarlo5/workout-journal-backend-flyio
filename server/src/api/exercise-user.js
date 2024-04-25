@@ -1,9 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-const exerciseUser = require("../models/exercise-user.model");
-const isAuthenticated = require("../is-authenticated");
-const exerciseType = require("../models/exercise-type.model");
+const ExerciseUser = require("../models/exercise-user.model");
 
 // Get all exercise-user by his ID
 
@@ -24,8 +22,7 @@ router.get("/", async (req, res, next) => {
     const sortField = sort[0] === "-" ? sort.substring(1) : sort;
     const sortOrder = sort[0] === "-" ? "desc" : "asc";
 
-    const exercises = await exerciseUser
-      .find(query)
+    const exercises = await ExerciseUser.find(query)
 
       // populate type and session
 
@@ -46,12 +43,10 @@ router.get("/", async (req, res, next) => {
 router.get("/:id", async (req, res, next) => {
   try {
     console.log(req.params.id, req.user._id);
-    const oneExerciseUser = await exerciseUser
-      .findOne({
-        owner: req.user._id,
-        _id: req.params.id,
-      })
-      .populate("type");
+    const oneExerciseUser = await ExerciseUser.findOne({
+      owner: req.user._id,
+      _id: req.params.id,
+    }).populate("type");
 
     if (!oneExerciseUser) {
       return res
@@ -76,7 +71,7 @@ router.post("/", async (req, res, next) => {
         .json({ message: "Comment should be less than 200 characters" });
     }
 
-    const createExerciseUser = await exerciseUser.create({
+    const createExerciseUser = await ExerciseUser.create({
       type,
       weight: weight,
       rep: rep,
@@ -115,7 +110,7 @@ router.put("/:id", async (req, res, next) => {
         .json({ message: "Comment should be less than 200 characters" });
     }
 
-    const updateExerciseUser = await exerciseUser.findOneAndUpdate(
+    const updateExerciseUser = await ExerciseUser.findOneAndUpdate(
       { _id: req.params.id },
       {
         type,
@@ -135,7 +130,7 @@ router.put("/:id", async (req, res, next) => {
 
 router.delete("/:id", async (req, res, next) => {
   try {
-    const deleteExerciseUser = await exerciseUser.findOneAndDelete({
+    const deleteExerciseUser = await ExerciseUser.findOneAndDelete({
       _id: req.params.id,
       owner: req.user._id,
     });

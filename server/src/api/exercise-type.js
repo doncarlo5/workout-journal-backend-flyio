@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-const exerciseType = require("../models/exercise-type.model");
+const ExerciseType = require("../models/exercise-type.model");
 
 // Get all exercise types
 
@@ -22,8 +22,7 @@ router.get("/", async (req, res, next) => {
       query.typeSession = typeSession;
     }
 
-    const exerciseUsers = await exerciseType
-      .find(query)
+    const exerciseUsers = await ExerciseType.find(query)
       .skip(page * limit)
       .limit(limit)
       .sort({ [sortField]: sortOrder });
@@ -51,7 +50,7 @@ router.post("/", async (req, res, next) => {
       return res.status(400).json({ message: "Should be a number" });
     }
 
-    const createExerciseType = await exerciseType.create({
+    const createExerciseType = await ExerciseType.create({
       name: name,
       advice: advice,
       timer: timer,
@@ -72,7 +71,7 @@ router.post("/", async (req, res, next) => {
 
 router.get("/:id", async (req, res, next) => {
   try {
-    const oneExerciseType = await exerciseType.findOne({
+    const oneExerciseType = await ExerciseType.findOne({
       owner: req.user._id,
       _id: req.params.id,
     });
@@ -108,7 +107,7 @@ router.put("/:id", async (req, res, next) => {
       return res.status(400).json({ message: "Should be a number" });
     }
 
-    const updateExerciseType = await exerciseType.findByIdAndUpdate(
+    const updateExerciseType = await ExerciseType.findByIdAndUpdate(
       { _id: req.params.id },
       {
         name: name,
@@ -132,7 +131,7 @@ router.put("/:id", async (req, res, next) => {
 
 router.delete("/:id", async (req, res, next) => {
   try {
-    const deleteExerciseType = await exerciseType.findOneAndDelete({
+    const deleteExerciseType = await ExerciseType.findOneAndDelete({
       _id: req.params.id,
       owner: req.user._id,
     });

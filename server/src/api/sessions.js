@@ -1,8 +1,8 @@
 const express = require("express");
 const router = express.Router();
 
-const session = require("../models/session.model");
-const exerciseUser = require("../models/exercise-user.model");
+const Session = require("../models/session.model");
+const ExerciseUser = require("../models/exercise-user.model");
 const isAuthenticated = require("../is-authenticated");
 
 // Get all sessions by user
@@ -22,8 +22,7 @@ router.get("/", isAuthenticated, async (req, res, next) => {
     const sortField = sort[0] === "-" ? sort.substring(1) : sort;
     const sortOrder = sort[0] === "-" ? "desc" : "asc";
 
-    const sessions = await session
-      .find(query)
+    const sessions = await Session.find(query)
       .populate("exercise_user_list")
       .skip(page * limit)
       .limit(limit)
@@ -56,7 +55,7 @@ router.get("/:id", async (req, res, next) => {
 
 router.post("/", isAuthenticated, async (req, res, next) => {
   try {
-    const createSession = await session.create({
+    const createSession = await Session.create({
       date_session: req.body.date_session,
       type_session: req.body.type_session,
       body_weight: req.body.body_weight,
@@ -90,7 +89,7 @@ router.put("/:id", async (req, res, next) => {
         .json({ message: "Comment should be less than 200 characters" });
     }
 
-    const updateSession = await session.findOneAndUpdate(
+    const updateSession = await Session.findOneAndUpdate(
       { _id: req.params.id },
       {
         date_session,
@@ -118,7 +117,7 @@ router.delete("/:id", async (req, res, next) => {
 
     // update and delete all exercise-user documents associated with that session with deleteMany
 
-    const deleteExerciseUser = await exerciseUser.deleteMany({
+    const deleteExerciseUser = await ExerciseUser.deleteMany({
       session: req.params.id,
     });
     const deleteSession = await session.findOneAndDelete({
