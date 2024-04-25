@@ -1,13 +1,13 @@
 const express = require("express");
 const router = express.Router();
 
-const auth = require("./auth");
-const sessions = require("./sessions");
+const auth = require("./auth.js");
+const sessions = require("./sessions.js");
 const exerciseUser = require("./exercise-user.js");
-const exerciseType = require("./exercise-type");
-const emojis = require("./emojis");
+const exerciseType = require("./exercise-type.js");
+const emojis = require("./emojis.js");
 
-const isAuthenticated = require("../is-authenticated");
+const isAuthenticated = require("../is-authenticated.js");
 
 router.get("/", (req, res, next) => {
   res.json({
