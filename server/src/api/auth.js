@@ -37,7 +37,14 @@ router.post("/signup", async (req, res, next) => {
       password: hashedPassword,
     });
 
-    return res.status(201).json({ newUser, message: "User created" });
+    // Create the token to log in
+
+    const token = jwt.sign({ _id: newUser._id }, SECRET_TOKEN, {
+      algorithm: "HS256",
+      expiresIn: "365d",
+    });
+
+    return res.status(201).json({ newUser, message: "User created", token });
   } catch (error) {
     next(error);
   }
@@ -57,8 +64,6 @@ router.post("/login", async (req, res, next) => {
 
     // Check if email exists
     const existingUser = await User.findOne({ email }).select("password email");
-
-    console.log("============", existingUser);
 
     if (!existingUser) {
       return res.status(400).json({ message: "Email not found" });
