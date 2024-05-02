@@ -94,7 +94,12 @@ router.post("/login", async (req, res, next) => {
 //* Verify Token
 
 router.get("/verify", isAuthenticated, (req, res, next) => {
-  return res.status(200).json(req.user);
+  const user = req.user;
+  try {
+    res.status(200).json({ user, message: "Token is valid" });
+  } catch (error) {
+    next(error);
+  }
 });
 
 //* Update user
