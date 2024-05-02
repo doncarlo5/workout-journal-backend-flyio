@@ -87,6 +87,7 @@ router.post("/login", async (req, res, next) => {
 
     return res.status(200).json({ token });
   } catch (error) {
+    console.log(error);
     next(error);
   }
 });
@@ -98,6 +99,7 @@ router.get("/verify", isAuthenticated, (req, res, next) => {
   try {
     res.status(200).json({ user, message: "Token is valid" });
   } catch (error) {
+    console.log(error);
     next(error);
   }
 });
