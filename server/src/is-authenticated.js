@@ -4,6 +4,8 @@ const User = require("./models/user.model");
 
 const isAuthenticated = async (req, res, next) => {
   try {
+    console.log("is Authenticated begin");
+
     const authorizationHeader = req.headers.authorization;
 
     if (!authorizationHeader) {
@@ -12,9 +14,15 @@ const isAuthenticated = async (req, res, next) => {
 
     const token = authorizationHeader.replace("Bearer ", "");
 
+    console.log("token", token);
+
     const payload = jwt.verify(token, SECRET_TOKEN, { algorithms: ["HS256"] });
 
+    console.log("payload", payload);
+
     const user = await User.findById(payload._id);
+
+    console.log("user", user);
 
     if (!user) {
       return res.status(401).json({ message: "Denied!" });
