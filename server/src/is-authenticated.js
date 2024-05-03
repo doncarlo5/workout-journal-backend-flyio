@@ -16,6 +16,11 @@ const isAuthenticated = async (req, res, next) => {
 
     console.log("token", token);
 
+    if (!token) {
+      // If token is undefined, return a 401 Unauthorized status
+      return res.status(401).json({ message: "Unauthorized" });
+    }
+
     const payload = jwt.verify(token, SECRET_TOKEN, { algorithms: ["HS256"] });
 
     console.log("payload", payload);
@@ -25,7 +30,7 @@ const isAuthenticated = async (req, res, next) => {
     console.log("user", user);
 
     if (!user) {
-      return res.status(401).json({ message: "Denied!" });
+      return res.status(401).json({ message: "Unauthorized" });
     }
 
     req.user = user;
