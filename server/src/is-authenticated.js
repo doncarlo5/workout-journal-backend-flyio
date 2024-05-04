@@ -21,22 +21,28 @@ const isAuthenticated = async (req, res, next) => {
       return res.status(401).json({ message: "Unauthorized" });
     }
 
-    const payload = jwt.verify(token, SECRET_TOKEN, { algorithms: ["HS256"] });
+    try {
+      // Verify the token
+      const payload = jwt.verify(token, SECRET_TOKEN, {
+        algorithms: ["HS256"],
+      });
 
-    console.log("payload", payload);
+      const user = await User.findById(payload._id);
 
-    const user = await User.findById(payload._id);
+      console.log("user", user);
 
-    console.log("user", user);
+      if (!user) {
+        return res.status(401).json({ message: "Unauthorized" });
+      }
 
-    if (!user) {
+      req.user = user;
+
+      next();
+    } catch (error) {
       return res.status(401).json({ message: "Unauthorized" });
     }
-
-    req.user = user;
-
-    next();
   } catch (error) {
+    console.log(error);
     next(error);
   }
 };
