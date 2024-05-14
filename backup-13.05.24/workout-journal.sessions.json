@@ -1,0 +1,4727 @@
+[{
+  "_id": {
+    "$oid": "661f98d91c781f89cbd026d0"
+  },
+  "date_session": {
+    "$date": "2023-05-06T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 68.7,
+  "exercise_user_list": [
+    {
+      "$oid": "661f990e1c781f89cbd02712"
+    },
+    {
+      "$oid": "661f99241c781f89cbd0273d"
+    },
+    {
+      "$oid": "661f99371c781f89cbd02769"
+    },
+    {
+      "$oid": "661f994b1c781f89cbd02795"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T09:39:37.991Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T16:24:14.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f99d61c781f89cbd028c0"
+  },
+  "date_session": {
+    "$date": "2023-05-19T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.1,
+  "exercise_user_list": [
+    {
+      "$oid": "661f9a5d1c781f89cbd02909"
+    },
+    {
+      "$oid": "661f9b3e1c781f89cbd02a42"
+    },
+    {
+      "$oid": "661f9b661c781f89cbd02a6d"
+    },
+    {
+      "$oid": "661f9b921c781f89cbd02a98"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T09:43:50.967Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T16:27:21.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9baa1c781f89cbd02acc"
+  },
+  "date_session": {
+    "$date": "2023-05-23T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.95,
+  "exercise_user_list": [
+    {
+      "$oid": "661f9bec1c781f89cbd02aea"
+    },
+    {
+      "$oid": "661f9bf61c781f89cbd02b16"
+    },
+    {
+      "$oid": "661f9c0b1c781f89cbd02b42"
+    },
+    {
+      "$oid": "661f9c241c781f89cbd02b6e"
+    },
+    {
+      "$oid": "661f9c3d1c781f89cbd02b9a"
+    },
+    {
+      "$oid": "661f9c561c781f89cbd02bc5"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T09:51:38.096Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:01:40.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661ff7661c781f89cbd037e9"
+  },
+  "date_session": {
+    "$date": "2023-05-29T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.7,
+  "exercise_user_list": [
+    {
+      "$oid": "661ff78f1c781f89cbd03809"
+    },
+    {
+      "$oid": "661ff7c91c781f89cbd03835"
+    },
+    {
+      "$oid": "661ff8901c781f89cbd03860"
+    },
+    {
+      "$oid": "661ff8b61c781f89cbd0388c"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T16:23:02.173Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:12:10.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620bab71c781f89cbd0526d"
+  },
+  "date_session": {
+    "$date": "2023-09-09T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.85,
+  "exercise_user_list": [
+    {
+      "$oid": "6620bb0f1c781f89cbd0528b"
+    },
+    {
+      "$oid": "6620bb2b1c781f89cbd052b7"
+    },
+    {
+      "$oid": "6620bb401c781f89cbd052e3"
+    },
+    {
+      "$oid": "6620bb501c781f89cbd0530f"
+    },
+    {
+      "$oid": "6620bb641c781f89cbd0533b"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:16:23.531Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:22:05.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620dadc1c781f89cbd06b47"
+  },
+  "date_session": {
+    "$date": "2023-12-03T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.15,
+  "exercise_user_list": [
+    {
+      "$oid": "6620db091c781f89cbd06b65"
+    },
+    {
+      "$oid": "6620db251c781f89cbd06b94"
+    },
+    {
+      "$oid": "6620db381c781f89cbd06bc0"
+    },
+    {
+      "$oid": "6620db451c781f89cbd06bec"
+    },
+    {
+      "$oid": "6620db511c781f89cbd06c18"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:33:32.665Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:28:11.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620dd181c781f89cbd0708e"
+  },
+  "date_session": {
+    "$date": "2023-12-15T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.75,
+  "exercise_user_list": [
+    {
+      "$oid": "6620dd391c781f89cbd070ac"
+    },
+    {
+      "$oid": "6620dd561c781f89cbd070d8"
+    },
+    {
+      "$oid": "6620dd641c781f89cbd07104"
+    },
+    {
+      "$oid": "6620dd711c781f89cbd07130"
+    },
+    {
+      "$oid": "6620dd7d1c781f89cbd0715c"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:43:04.095Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:30:20.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661ff8c11c781f89cbd038c0"
+  },
+  "date_session": {
+    "$date": "2023-06-01T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.7,
+  "exercise_user_list": [
+    {
+      "$oid": "661ff8ff1c781f89cbd03926"
+    },
+    {
+      "$oid": "661ff93d1c781f89cbd03952"
+    },
+    {
+      "$oid": "661ff95c1c781f89cbd0397e"
+    },
+    {
+      "$oid": "661ff96e1c781f89cbd039aa"
+    },
+    {
+      "$oid": "661ffa921c781f89cbd039d6"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T16:28:49.477Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:12:59.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661ffff41c781f89cbd03db2"
+  },
+  "date_session": {
+    "$date": "2023-06-25T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.6,
+  "exercise_user_list": [
+    {
+      "$oid": "662000211c781f89cbd03dd0"
+    },
+    {
+      "$oid": "662000641c781f89cbd03dfc"
+    },
+    {
+      "$oid": "662000751c781f89cbd03e28"
+    },
+    {
+      "$oid": "662000801c781f89cbd03e54"
+    },
+    {
+      "$oid": "662000a61c781f89cbd03e80"
+    },
+    {
+      "$oid": "662000c31c781f89cbd03eac"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T16:59:32.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:19:12.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662001f51c781f89cbd03fe6"
+  },
+  "date_session": {
+    "$date": "2023-09-01T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "662002171c781f89cbd04004"
+    },
+    {
+      "$oid": "662002331c781f89cbd04030"
+    },
+    {
+      "$oid": "662002491c781f89cbd0405c"
+    },
+    {
+      "$oid": "6620026b1c781f89cbd04088"
+    },
+    {
+      "$oid": "6620028d1c781f89cbd040b4"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:08:05.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:21:23.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662002ab1c781f89cbd040ea"
+  },
+  "date_session": {
+    "$date": "2023-07-03T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "662004371c781f89cbd04108"
+    },
+    {
+      "$oid": "662004651c781f89cbd04178"
+    },
+    {
+      "$oid": "6620048a1c781f89cbd041a4"
+    },
+    {
+      "$oid": "662004971c781f89cbd041d0"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:11:07.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:19:22.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620070c1c781f89cbd04460"
+  },
+  "date_session": {
+    "$date": "2023-07-11T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620072d1c781f89cbd0447e"
+    },
+    {
+      "$oid": "662007401c781f89cbd044aa"
+    },
+    {
+      "$oid": "662007561c781f89cbd044d6"
+    },
+    {
+      "$oid": "6620076d1c781f89cbd04502"
+    },
+    {
+      "$oid": "662007891c781f89cbd0452e"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:29:48.685Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:20:01.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620b7721c781f89cbd04d55"
+  },
+  "date_session": {
+    "$date": "2023-08-31T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620b7911c781f89cbd04d73"
+    },
+    {
+      "$oid": "6620b7b31c781f89cbd04d9f"
+    },
+    {
+      "$oid": "6620b7d31c781f89cbd04dcb"
+    },
+    {
+      "$oid": "6620b7e61c781f89cbd04df7"
+    },
+    {
+      "$oid": "6620b7fd1c781f89cbd04e23"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:02:26.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:21:05.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620ba291c781f89cbd0513d"
+  },
+  "date_session": {
+    "$date": "2023-09-07T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620ba481c781f89cbd0515b"
+    },
+    {
+      "$oid": "6620ba531c781f89cbd05187"
+    },
+    {
+      "$oid": "6620ba671c781f89cbd051b3"
+    },
+    {
+      "$oid": "6620ba761c781f89cbd051df"
+    },
+    {
+      "$oid": "6620ba851c781f89cbd0520b"
+    },
+    {
+      "$oid": "6620ba9a1c781f89cbd05237"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:14:01.204Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:21:48.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620bb871c781f89cbd05371"
+  },
+  "date_session": {
+    "$date": "2023-09-12T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.85,
+  "exercise_user_list": [
+    {
+      "$oid": "6620bbb71c781f89cbd0538f"
+    },
+    {
+      "$oid": "6620bbc31c781f89cbd053bb"
+    },
+    {
+      "$oid": "6620bbdf1c781f89cbd053e7"
+    },
+    {
+      "$oid": "6620bbf21c781f89cbd05416"
+    },
+    {
+      "$oid": "6620bc011c781f89cbd05442"
+    },
+    {
+      "$oid": "6620bc351c781f89cbd0546e"
+    },
+    {
+      "$oid": "6620bc4e1c781f89cbd0549a"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:19:51.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:22:23.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c1bc1c781f89cbd05761"
+  },
+  "date_session": {
+    "$date": "2023-09-26T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 71.15,
+  "exercise_user_list": [
+    {
+      "$oid": "6620c1f71c781f89cbd0577f"
+    },
+    {
+      "$oid": "6620c20a1c781f89cbd057ab"
+    },
+    {
+      "$oid": "6620c21f1c781f89cbd057d7"
+    },
+    {
+      "$oid": "6620c2381c781f89cbd05803"
+    },
+    {
+      "$oid": "6620c2471c781f89cbd0582f"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:46:20.986Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:23:32.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c34e1c781f89cbd05961"
+  },
+  "date_session": {
+    "$date": "2023-10-10T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 71.15,
+  "exercise_user_list": [
+    {
+      "$oid": "6620c36a1c781f89cbd0597f"
+    },
+    {
+      "$oid": "6620c3851c781f89cbd059ab"
+    },
+    {
+      "$oid": "6620c3ae1c781f89cbd059fe"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:53:02.761Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:24:08.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c5a21c781f89cbd05c64"
+  },
+  "date_session": {
+    "$date": "2023-10-19T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70,
+  "exercise_user_list": [
+    {
+      "$oid": "6620c5ad1c781f89cbd05c82"
+    },
+    {
+      "$oid": "6620c5dc1c781f89cbd05cae"
+    },
+    {
+      "$oid": "6620c5ee1c781f89cbd05cda"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T07:02:58.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T07:04:26.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c6221c781f89cbd05d4a"
+  },
+  "date_session": {
+    "$date": "2023-10-22T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 71,
+  "exercise_user_list": [
+    {
+      "$oid": "6620c6551c781f89cbd05d68"
+    },
+    {
+      "$oid": "6620c6671c781f89cbd05d94"
+    },
+    {
+      "$oid": "6620c6811c781f89cbd05dc0"
+    },
+    {
+      "$oid": "6620c6a11c781f89cbd05dec"
+    },
+    {
+      "$oid": "6620c6b91c781f89cbd05e18"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T07:05:06.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:25:20.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d3e81c781f89cbd060f9"
+  },
+  "date_session": {
+    "$date": "2023-11-09T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.7,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d3fc1c781f89cbd06117"
+    },
+    {
+      "$oid": "6620d4471c781f89cbd06143"
+    },
+    {
+      "$oid": "6620d45d1c781f89cbd0616f"
+    },
+    {
+      "$oid": "6620d47a1c781f89cbd0619b"
+    },
+    {
+      "$oid": "6620d48a1c781f89cbd061c7"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:03:52.862Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:26:43.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f99631c781f89cbd027f3"
+  },
+  "date_session": {
+    "$date": "2023-05-16T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.3,
+  "exercise_user_list": [
+    {
+      "$oid": "661f99901c781f89cbd02835"
+    },
+    {
+      "$oid": "661f999d1c781f89cbd02861"
+    },
+    {
+      "$oid": "661f99b91c781f89cbd0288c"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T09:41:55.743Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T16:26:48.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9c821c781f89cbd02c29"
+  },
+  "date_session": {
+    "$date": "2023-05-24T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.95,
+  "exercise_user_list": [
+    {
+      "$oid": "661f9cbe1c781f89cbd02c6a"
+    },
+    {
+      "$oid": "661f9cf51c781f89cbd02c9b"
+    },
+    {
+      "$oid": "661f9d161c781f89cbd02cc6"
+    },
+    {
+      "$oid": "661f9d281c781f89cbd02cf1"
+    },
+    {
+      "$oid": "661f9d3f1c781f89cbd02d1c"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T09:55:14.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:02:05.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661ffcb11c781f89cbd03b83"
+  },
+  "date_session": {
+    "$date": "2023-06-07T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.95,
+  "exercise_user_list": [
+    {
+      "$oid": "661ffde91c781f89cbd03ba1"
+    },
+    {
+      "$oid": "661ffe171c781f89cbd03bcd"
+    },
+    {
+      "$oid": "661ffe271c781f89cbd03bf9"
+    },
+    {
+      "$oid": "661ffe3c1c781f89cbd03c25"
+    },
+    {
+      "$oid": "661ffe641c781f89cbd03c51"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T16:45:37.623Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:18:20.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662007a41c781f89cbd04564"
+  },
+  "date_session": {
+    "$date": "2023-07-14T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "662007fd1c781f89cbd04582"
+    },
+    {
+      "$oid": "6620080f1c781f89cbd045ae"
+    },
+    {
+      "$oid": "662008431c781f89cbd045da"
+    },
+    {
+      "$oid": "662008df1c781f89cbd0462d"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:32:20.939Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:20:11.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662009af1c781f89cbd04767"
+  },
+  "date_session": {
+    "$date": "2023-07-19T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "662009d21c781f89cbd04785"
+    },
+    {
+      "$oid": "66200a261c781f89cbd047b1"
+    },
+    {
+      "$oid": "66200a3c1c781f89cbd047dd"
+    },
+    {
+      "$oid": "66200a591c781f89cbd04809"
+    },
+    {
+      "$oid": "66200a9c1c781f89cbd0485c"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:41:03.843Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:20:30.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66200b0f1c781f89cbd049b7"
+  },
+  "date_session": {
+    "$date": "2023-07-21T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "66200b701c781f89cbd049d7"
+    },
+    {
+      "$oid": "66200b8b1c781f89cbd04a03"
+    },
+    {
+      "$oid": "66200bb21c781f89cbd04a2f"
+    },
+    {
+      "$oid": "66200bd11c781f89cbd04a5a"
+    },
+    {
+      "$oid": "66200be51c781f89cbd04a86"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:46:55.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:20:41.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620b8201c781f89cbd04e59"
+  },
+  "date_session": {
+    "$date": "2023-09-01T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620b86e1c781f89cbd04e7a"
+    },
+    {
+      "$oid": "6620b88f1c781f89cbd04ea8"
+    },
+    {
+      "$oid": "6620b8b21c781f89cbd04ed4"
+    },
+    {
+      "$oid": "6620b8cd1c781f89cbd04f00"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:05:20.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:21:14.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620b98e1c781f89cbd05039"
+  },
+  "date_session": {
+    "$date": "2023-09-05T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620b9bb1c781f89cbd05057"
+    },
+    {
+      "$oid": "6620b9d11c781f89cbd05083"
+    },
+    {
+      "$oid": "6620b9dd1c781f89cbd050af"
+    },
+    {
+      "$oid": "6620b9eb1c781f89cbd050db"
+    },
+    {
+      "$oid": "6620b9ff1c781f89cbd05107"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:11:26.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:21:39.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620bf3d1c781f89cbd054d0"
+  },
+  "date_session": {
+    "$date": "2023-09-18T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.2,
+  "exercise_user_list": [
+    {
+      "$oid": "6620bfea1c781f89cbd054ee"
+    },
+    {
+      "$oid": "6620c0141c781f89cbd0551a"
+    },
+    {
+      "$oid": "6620c0271c781f89cbd05546"
+    },
+    {
+      "$oid": "6620c03b1c781f89cbd05572"
+    },
+    {
+      "$oid": "6620c04a1c781f89cbd0559e"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:35:41.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:22:50.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c06a1c781f89cbd055d4"
+  },
+  "date_session": {
+    "$date": "2023-09-24T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.9,
+  "exercise_user_list": [
+    {
+      "$oid": "6620c0921c781f89cbd055f2"
+    },
+    {
+      "$oid": "6620c0d91c781f89cbd0561e"
+    },
+    {
+      "$oid": "6620c0ea1c781f89cbd0564a"
+    },
+    {
+      "$oid": "6620c0fc1c781f89cbd05676"
+    },
+    {
+      "$oid": "6620c1771c781f89cbd056ff"
+    },
+    {
+      "$oid": "6620c18a1c781f89cbd0572b"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:40:42.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:23:06.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c4d51c781f89cbd05b5d"
+  },
+  "date_session": {
+    "$date": "2023-10-17T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 71.15,
+  "exercise_user_list": [
+    {
+      "$oid": "6620c4f51c781f89cbd05b7b"
+    },
+    {
+      "$oid": "6620c5431c781f89cbd05baa"
+    },
+    {
+      "$oid": "6620c56d1c781f89cbd05bd6"
+    },
+    {
+      "$oid": "6620c5791c781f89cbd05c02"
+    },
+    {
+      "$oid": "6620c5861c781f89cbd05c2e"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:59:33.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:24:51.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c6d91c781f89cbd05e4e"
+  },
+  "date_session": {
+    "$date": "2023-11-05T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 71,
+  "exercise_user_list": [
+    {
+      "$oid": "6620c6f31c781f89cbd05e6c"
+    },
+    {
+      "$oid": "6620c7091c781f89cbd05e98"
+    },
+    {
+      "$oid": "6620c71d1c781f89cbd05ec4"
+    },
+    {
+      "$oid": "6620c7311c781f89cbd05ef0"
+    },
+    {
+      "$oid": "6620c7441c781f89cbd05f1c"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T07:08:09.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:25:59.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d4a61c781f89cbd061fd"
+  },
+  "date_session": {
+    "$date": "2023-11-12T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.7,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d4df1c781f89cbd0621b"
+    },
+    {
+      "$oid": "6620d4f91c781f89cbd06247"
+    },
+    {
+      "$oid": "6620d5031c781f89cbd06273"
+    },
+    {
+      "$oid": "6620d5101c781f89cbd0629f"
+    },
+    {
+      "$oid": "6620d5231c781f89cbd062cb"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:07:02.724Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:27:04.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d7071c781f89cbd06537"
+  },
+  "date_session": {
+    "$date": "2023-11-19T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.7,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d7201c781f89cbd06555"
+    },
+    {
+      "$oid": "6620d72f1c781f89cbd06581"
+    },
+    {
+      "$oid": "6620d77f1c781f89cbd065ad"
+    },
+    {
+      "$oid": "6620d7931c781f89cbd065d9"
+    },
+    {
+      "$oid": "6620d79f1c781f89cbd06605"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:17:11.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:27:25.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d8fc1c781f89cbd06843"
+  },
+  "date_session": {
+    "$date": "2023-11-25T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.35,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d9341c781f89cbd06861"
+    },
+    {
+      "$oid": "6620d94f1c781f89cbd0688d"
+    },
+    {
+      "$oid": "6620d97a1c781f89cbd068b9"
+    },
+    {
+      "$oid": "6620d9941c781f89cbd068e5"
+    },
+    {
+      "$oid": "6620d9a31c781f89cbd06911"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:25:32.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:27:57.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620db691c781f89cbd06c4e"
+  },
+  "date_session": {
+    "$date": "2023-12-05T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.75,
+  "exercise_user_list": [
+    {
+      "$oid": "6620db791c781f89cbd06c6c"
+    },
+    {
+      "$oid": "6620db901c781f89cbd06c9b"
+    },
+    {
+      "$oid": "6620db991c781f89cbd06cc7"
+    },
+    {
+      "$oid": "6620dbd01c781f89cbd06dc7"
+    },
+    {
+      "$oid": "6620dbf71c781f89cbd06e50"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:35:53.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:29:37.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620dc091c781f89cbd06e86"
+  },
+  "date_session": {
+    "$date": "2023-12-10T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.75,
+  "exercise_user_list": [
+    {
+      "$oid": "6620dc351c781f89cbd06ea4"
+    },
+    {
+      "$oid": "6620dc421c781f89cbd06ed0"
+    },
+    {
+      "$oid": "6620dc511c781f89cbd06efc"
+    },
+    {
+      "$oid": "6620dc661c781f89cbd06f28"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:38:33.116Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:30:03.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620de491c781f89cbd071d2"
+  },
+  "date_session": {
+    "$date": "2023-12-18T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.75,
+  "exercise_user_list": [
+    {
+      "$oid": "6620de601c781f89cbd071f0"
+    },
+    {
+      "$oid": "6620de7b1c781f89cbd0721f"
+    },
+    {
+      "$oid": "6620de901c781f89cbd0724b"
+    },
+    {
+      "$oid": "6620debf1c781f89cbd07277"
+    },
+    {
+      "$oid": "6620decd1c781f89cbd072a3"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:48:09.865Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:30:34.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620dee61c781f89cbd072d9"
+  },
+  "date_session": {
+    "$date": "2023-12-19T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.25,
+  "exercise_user_list": [
+    {
+      "$oid": "6620df081c781f89cbd072f7"
+    },
+    {
+      "$oid": "6620df221c781f89cbd07323"
+    },
+    {
+      "$oid": "6620df351c781f89cbd07352"
+    },
+    {
+      "$oid": "6620df3d1c781f89cbd0737e"
+    },
+    {
+      "$oid": "6620df4f1c781f89cbd073aa"
+    },
+    {
+      "$oid": "6620df5f1c781f89cbd073d6"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:50:46.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:29:55.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620df6e1c781f89cbd0740c"
+  },
+  "date_session": {
+    "$date": "2023-12-21T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.25,
+  "exercise_user_list": [
+    {
+      "$oid": "6620df891c781f89cbd0742a"
+    },
+    {
+      "$oid": "6620df9c1c781f89cbd07456"
+    },
+    {
+      "$oid": "6620dfa81c781f89cbd07482"
+    },
+    {
+      "$oid": "6620dfc11c781f89cbd074ae"
+    },
+    {
+      "$oid": "6620dfd51c781f89cbd074da"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:53:02.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:30:59.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620dfea1c781f89cbd07510"
+  },
+  "date_session": {
+    "$date": "2023-12-25T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.25,
+  "exercise_user_list": [
+    {
+      "$oid": "6620dff61c781f89cbd0752e"
+    },
+    {
+      "$oid": "6620e00d1c781f89cbd0755d"
+    },
+    {
+      "$oid": "6620e0261c781f89cbd07589"
+    },
+    {
+      "$oid": "6620e0351c781f89cbd075b5"
+    },
+    {
+      "$oid": "6620e03f1c781f89cbd075e1"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:55:06.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:31:06.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f97421c781f89cbd0256c"
+  },
+  "date_session": {
+    "$date": "2023-05-03T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 68.7,
+  "exercise_user_list": [
+    {
+      "$oid": "661f97d01c781f89cbd0258a"
+    },
+    {
+      "$oid": "661f980c1c781f89cbd025b6"
+    },
+    {
+      "$oid": "661f98301c781f89cbd025e2"
+    },
+    {
+      "$oid": "661f98561c781f89cbd0260e"
+    },
+    {
+      "$oid": "661f98ba1c781f89cbd0269a"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T09:32:50.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T16:23:48.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9d481c781f89cbd02d50"
+  },
+  "date_session": {
+    "$date": "2023-05-26T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.95,
+  "exercise_user_list": [
+    {
+      "$oid": "661f9d7d1c781f89cbd02d92"
+    },
+    {
+      "$oid": "661f9da41c781f89cbd02dbe"
+    },
+    {
+      "$oid": "661f9db91c781f89cbd02dea"
+    },
+    {
+      "$oid": "661f9dcd1c781f89cbd02e16"
+    },
+    {
+      "$oid": "661f9def1c781f89cbd02e42"
+    },
+    {
+      "$oid": "661f9e0b1c781f89cbd02e6e"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T09:58:32.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:02:19.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661ffaa21c781f89cbd03a0a"
+  },
+  "date_session": {
+    "$date": "2023-06-06T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.95,
+  "exercise_user_list": [
+    {
+      "$oid": "661ffaf91c781f89cbd03a70"
+    },
+    {
+      "$oid": "661ffbab1c781f89cbd03a9c"
+    },
+    {
+      "$oid": "661ffbd41c781f89cbd03ac7"
+    },
+    {
+      "$oid": "661ffbe31c781f89cbd03af3"
+    },
+    {
+      "$oid": "661ffc001c781f89cbd03b1f"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T16:36:50.851Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:17:59.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fff2e1c781f89cbd03cae"
+  },
+  "date_session": {
+    "$date": "2023-06-11T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 71.35,
+  "exercise_user_list": [
+    {
+      "$oid": "661fff771c781f89cbd03ccc"
+    },
+    {
+      "$oid": "661fff971c781f89cbd03cf8"
+    },
+    {
+      "$oid": "661fffa31c781f89cbd03d24"
+    },
+    {
+      "$oid": "661fffc41c781f89cbd03d50"
+    },
+    {
+      "$oid": "661fffdd1c781f89cbd03d7c"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T16:56:14.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:18:36.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662000e71c781f89cbd03ee2"
+  },
+  "date_session": {
+    "$date": "2023-07-28T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "662001361c781f89cbd03f00"
+    },
+    {
+      "$oid": "662001891c781f89cbd03f2c"
+    },
+    {
+      "$oid": "662001a31c781f89cbd03f58"
+    },
+    {
+      "$oid": "662001b11c781f89cbd03f84"
+    },
+    {
+      "$oid": "662001c91c781f89cbd03fb0"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:03:35.959Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:20:49.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662004db1c781f89cbd0422d"
+  },
+  "date_session": {
+    "$date": "2023-07-04T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620053d1c781f89cbd0424b"
+    },
+    {
+      "$oid": "662005ab1c781f89cbd04277"
+    },
+    {
+      "$oid": "662005d51c781f89cbd042a3"
+    },
+    {
+      "$oid": "662005ea1c781f89cbd042cf"
+    },
+    {
+      "$oid": "662006001c781f89cbd042fb"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:20:27.378Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:19:37.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620062e1c781f89cbd04331"
+  },
+  "date_session": {
+    "$date": "2023-07-09T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620064b1c781f89cbd0434f"
+    },
+    {
+      "$oid": "6620067b1c781f89cbd0437a"
+    },
+    {
+      "$oid": "6620068e1c781f89cbd043a6"
+    },
+    {
+      "$oid": "6620069f1c781f89cbd043d2"
+    },
+    {
+      "$oid": "662006c61c781f89cbd043fe"
+    },
+    {
+      "$oid": "662006de1c781f89cbd0442a"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:26:06.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:19:45.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662008f31c781f89cbd04663"
+  },
+  "date_session": {
+    "$date": "2023-07-17T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620091f1c781f89cbd04681"
+    },
+    {
+      "$oid": "662009571c781f89cbd046ad"
+    },
+    {
+      "$oid": "6620096e1c781f89cbd046d9"
+    },
+    {
+      "$oid": "662009881c781f89cbd04705"
+    },
+    {
+      "$oid": "6620099c1c781f89cbd04731"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-17T17:37:55.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:20:23.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620b53d1c781f89cbd04af0"
+  },
+  "date_session": {
+    "$date": "2023-08-24T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620b55f1c781f89cbd04b11"
+    },
+    {
+      "$oid": "6620b5781c781f89cbd04b3d"
+    },
+    {
+      "$oid": "6620b5a81c781f89cbd04b69"
+    },
+    {
+      "$oid": "6620b5c21c781f89cbd04b95"
+    },
+    {
+      "$oid": "6620b6041c781f89cbd04bc1"
+    },
+    {
+      "$oid": "6620b6181c781f89cbd04bed"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T05:53:01.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:20:57.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620b6431c781f89cbd04c7d"
+  },
+  "date_session": {
+    "$date": "2023-06-23T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.6,
+  "exercise_user_list": [
+    {
+      "$oid": "6620b67a1c781f89cbd04c9b"
+    },
+    {
+      "$oid": "6620b68d1c781f89cbd04cc7"
+    },
+    {
+      "$oid": "6620b6a81c781f89cbd04cf3"
+    },
+    {
+      "$oid": "6620b6cd1c781f89cbd04d1f"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T05:57:23.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:18:52.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620b8ee1c781f89cbd04f36"
+  },
+  "date_session": {
+    "$date": "2023-09-03T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6620b9141c781f89cbd04f54"
+    },
+    {
+      "$oid": "6620b92a1c781f89cbd04f7f"
+    },
+    {
+      "$oid": "6620b9421c781f89cbd04fab"
+    },
+    {
+      "$oid": "6620b9541c781f89cbd04fd7"
+    },
+    {
+      "$oid": "6620b9771c781f89cbd05003"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:08:46.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:21:30.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c26d1c781f89cbd05865"
+  },
+  "date_session": {
+    "$date": "2023-10-08T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 71.15,
+  "exercise_user_list": [
+    {
+      "$oid": "6620c2b11c781f89cbd05883"
+    },
+    {
+      "$oid": "6620c2e11c781f89cbd058af"
+    },
+    {
+      "$oid": "6620c30c1c781f89cbd058ff"
+    },
+    {
+      "$oid": "6620c3351c781f89cbd0592b"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:49:17.856Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:24:01.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c3da1c781f89cbd05a34"
+  },
+  "date_session": {
+    "$date": "2023-10-12T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 71.15,
+  "exercise_user_list": [
+    {
+      "$oid": "6620c4041c781f89cbd05a52"
+    },
+    {
+      "$oid": "6620c43e1c781f89cbd05a7e"
+    },
+    {
+      "$oid": "6620c46d1c781f89cbd05ad0"
+    },
+    {
+      "$oid": "6620c49b1c781f89cbd05afb"
+    },
+    {
+      "$oid": "6620c4bc1c781f89cbd05b27"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T06:55:22.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:24:16.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d2f81c781f89cbd05fc9"
+  },
+  "date_session": {
+    "$date": "2023-11-08T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.7,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d3081c781f89cbd05fe7"
+    },
+    {
+      "$oid": "6620d3221c781f89cbd06013"
+    },
+    {
+      "$oid": "6620d32f1c781f89cbd0603f"
+    },
+    {
+      "$oid": "6620d34c1c781f89cbd0606b"
+    },
+    {
+      "$oid": "6620d3bd1c781f89cbd06097"
+    },
+    {
+      "$oid": "6620d3d01c781f89cbd060c3"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T07:59:52.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:26:35.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d5371c781f89cbd06301"
+  },
+  "date_session": {
+    "$date": "2023-11-14T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.7,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d54b1c781f89cbd0631f"
+    },
+    {
+      "$oid": "6620d5651c781f89cbd0634b"
+    },
+    {
+      "$oid": "6620d56e1c781f89cbd06377"
+    },
+    {
+      "$oid": "6620d57d1c781f89cbd063a3"
+    },
+    {
+      "$oid": "6620d58f1c781f89cbd063cf"
+    },
+    {
+      "$oid": "6620d5a11c781f89cbd063fb"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:09:27.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:27:12.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d5b21c781f89cbd06431"
+  },
+  "date_session": {
+    "$date": "2023-11-16T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.7,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d5f01c781f89cbd0644f"
+    },
+    {
+      "$oid": "6620d6191c781f89cbd0647b"
+    },
+    {
+      "$oid": "6620d6671c781f89cbd064aa"
+    },
+    {
+      "$oid": "6620d6951c781f89cbd064d5"
+    },
+    {
+      "$oid": "6620d6f41c781f89cbd06501"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:11:30.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:27:18.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d7b41c781f89cbd0663b"
+  },
+  "date_session": {
+    "$date": "2023-11-21T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.35,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d7d31c781f89cbd06659"
+    },
+    {
+      "$oid": "6620d7ea1c781f89cbd06685"
+    },
+    {
+      "$oid": "6620d8231c781f89cbd066b1"
+    },
+    {
+      "$oid": "6620d83b1c781f89cbd066dd"
+    },
+    {
+      "$oid": "6620d8651c781f89cbd06709"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:20:04.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:26:26.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d87f1c781f89cbd0673f"
+  },
+  "date_session": {
+    "$date": "2023-11-23T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.35,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d89b1c781f89cbd0675d"
+    },
+    {
+      "$oid": "6620d8ba1c781f89cbd06789"
+    },
+    {
+      "$oid": "6620d8ca1c781f89cbd067b5"
+    },
+    {
+      "$oid": "6620d8d71c781f89cbd067e1"
+    },
+    {
+      "$oid": "6620d8e81c781f89cbd0680d"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:23:27.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:27:49.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620d9d41c781f89cbd0696b"
+  },
+  "date_session": {
+    "$date": "2023-11-28T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.25,
+  "exercise_user_list": [
+    {
+      "$oid": "6620d9e31c781f89cbd06989"
+    },
+    {
+      "$oid": "6620d9f71c781f89cbd069b5"
+    },
+    {
+      "$oid": "6620da291c781f89cbd069e1"
+    },
+    {
+      "$oid": "6620da381c781f89cbd06a0d"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:29:08.957Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:27:42.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620da4c1c781f89cbd06a43"
+  },
+  "date_session": {
+    "$date": "2023-11-30T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.25,
+  "exercise_user_list": [
+    {
+      "$oid": "6620da7d1c781f89cbd06a61"
+    },
+    {
+      "$oid": "6620daa41c781f89cbd06a8d"
+    },
+    {
+      "$oid": "6620daae1c781f89cbd06ab9"
+    },
+    {
+      "$oid": "6620dab91c781f89cbd06ae5"
+    },
+    {
+      "$oid": "6620daca1c781f89cbd06b11"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:31:08.484Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:28:19.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620dc761c781f89cbd06f5e"
+  },
+  "date_session": {
+    "$date": "2023-12-12T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.75,
+  "exercise_user_list": [
+    {
+      "$oid": "6620dc931c781f89cbd06f7c"
+    },
+    {
+      "$oid": "6620dcad1c781f89cbd06fa8"
+    },
+    {
+      "$oid": "6620dcb61c781f89cbd06fd4"
+    },
+    {
+      "$oid": "6620dcc11c781f89cbd07000"
+    },
+    {
+      "$oid": "6620dcec1c781f89cbd0702c"
+    },
+    {
+      "$oid": "6620dd031c781f89cbd07058"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T08:40:22.645Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:30:12.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e04f1c781f89cbd07617"
+  },
+  "date_session": {
+    "$date": "2023-12-27T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.25,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e05e1c781f89cbd07635"
+    },
+    {
+      "$oid": "6620e0771c781f89cbd07661"
+    },
+    {
+      "$oid": "6620e08e1c781f89cbd0768d"
+    },
+    {
+      "$oid": "6620e09e1c781f89cbd076b9"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Tendinite: pas de Upright Row penché",
+  "createdAt": {
+    "$date": "2024-04-18T08:56:47.064Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:31:13.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e0d61c781f89cbd07713"
+  },
+  "date_session": {
+    "$date": "2024-01-01T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.1,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e0e11c781f89cbd07731"
+    },
+    {
+      "$oid": "6620e1051c781f89cbd0775d"
+    },
+    {
+      "$oid": "6620e10f1c781f89cbd07789"
+    },
+    {
+      "$oid": "6620e11d1c781f89cbd077b5"
+    },
+    {
+      "$oid": "6620e1531c781f89cbd077e1"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Tendinite : pas de Upright Row penché",
+  "createdAt": {
+    "$date": "2024-04-18T08:59:02.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:30:52.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e1e81c781f89cbd07920"
+  },
+  "date_session": {
+    "$date": "2023-12-05T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.75,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e1f61c781f89cbd0793e"
+    },
+    {
+      "$oid": "6620e20a1c781f89cbd0796a"
+    },
+    {
+      "$oid": "6620e30a1c781f89cbd07996"
+    },
+    {
+      "$oid": "6620e31b1c781f89cbd079c2"
+    },
+    {
+      "$oid": "6620e32a1c781f89cbd079ee"
+    },
+    {
+      "$oid": "6620e33a1c781f89cbd07a1a"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Tendinite : pas de Upright Row penché",
+  "createdAt": {
+    "$date": "2024-04-18T09:03:36.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:28:35.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e1771c781f89cbd07817"
+  },
+  "date_session": {
+    "$date": "2024-01-03T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.5,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e1861c781f89cbd07835"
+    },
+    {
+      "$oid": "6620e1971c781f89cbd07861"
+    },
+    {
+      "$oid": "6620e1aa1c781f89cbd07890"
+    },
+    {
+      "$oid": "6620e1c81c781f89cbd078bc"
+    },
+    {
+      "$oid": "6620e1d91c781f89cbd078e8"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:01:43.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:31:35.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e3541c781f89cbd07a50"
+  },
+  "date_session": {
+    "$date": "2024-01-07T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 70.5,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e3641c781f89cbd07a6e"
+    },
+    {
+      "$oid": "6620e3801c781f89cbd07a9a"
+    },
+    {
+      "$oid": "6620e38b1c781f89cbd07ac6"
+    },
+    {
+      "$oid": "6620e3971c781f89cbd07af2"
+    },
+    {
+      "$oid": "6620e3b81c781f89cbd07b1e"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:09:40.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:31:59.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e43f1c781f89cbd07c5d"
+  },
+  "date_session": {
+    "$date": "2024-01-11T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.3,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e4681c781f89cbd07c7b"
+    },
+    {
+      "$oid": "6620e4731c781f89cbd07ca7"
+    },
+    {
+      "$oid": "6620e4811c781f89cbd07cd3"
+    },
+    {
+      "$oid": "6620e48d1c781f89cbd07cff"
+    },
+    {
+      "$oid": "6620e49c1c781f89cbd07d2b"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:13:35.240Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:32:24.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e5bb1c781f89cbd07f3d"
+  },
+  "date_session": {
+    "$date": "2024-01-18T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.85,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e5ed1c781f89cbd07f5b"
+    },
+    {
+      "$oid": "6620e6151c781f89cbd07f87"
+    },
+    {
+      "$oid": "6620e6261c781f89cbd07fb3"
+    },
+    {
+      "$oid": "6620e6551c781f89cbd07fe2"
+    },
+    {
+      "$oid": "6620e6681c781f89cbd0800e"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:19:55.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:33:26.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e6891c781f89cbd0808b"
+  },
+  "date_session": {
+    "$date": "2024-01-20T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.35,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e6b21c781f89cbd080a9"
+    },
+    {
+      "$oid": "6620e6cf1c781f89cbd080d5"
+    },
+    {
+      "$oid": "6620e6e01c781f89cbd08101"
+    },
+    {
+      "$oid": "6620e6f51c781f89cbd0812d"
+    },
+    {
+      "$oid": "6620e7071c781f89cbd08159"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:23:21.862Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:33:36.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620ea841c781f89cbd082d9"
+  },
+  "date_session": {
+    "$date": "2024-01-24T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.15,
+  "exercise_user_list": [
+    {
+      "$oid": "6620eaaa1c781f89cbd082f9"
+    },
+    {
+      "$oid": "6620eabd1c781f89cbd08325"
+    },
+    {
+      "$oid": "6620eacd1c781f89cbd08351"
+    },
+    {
+      "$oid": "6620eadf1c781f89cbd0837d"
+    },
+    {
+      "$oid": "6620eae91c781f89cbd083a9"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:40:20.205Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:33:49.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662115ce1c781f89cbd088db"
+  },
+  "date_session": {
+    "$date": "2024-01-06T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.5,
+  "exercise_user_list": [
+    {
+      "$oid": "662115e91c781f89cbd088f9"
+    },
+    {
+      "$oid": "662116071c781f89cbd0892b"
+    },
+    {
+      "$oid": "6621160e1c781f89cbd08957"
+    },
+    {
+      "$oid": "662116191c781f89cbd08983"
+    },
+    {
+      "$oid": "6621162d1c781f89cbd089b2"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T12:45:02.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:31:53.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662147f6eb766852ee7ccef9"
+  },
+  "date_session": {
+    "$date": "2024-03-15T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "66214833eb766852ee7ccf1b"
+    },
+    {
+      "$oid": "66214843eb766852ee7ccf47"
+    },
+    {
+      "$oid": "6621485ceb766852ee7ccf73"
+    },
+    {
+      "$oid": "6621486beb766852ee7ccf9f"
+    },
+    {
+      "$oid": "66214876eb766852ee7ccfcb"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:19:02.032Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:38:29.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214d22eb766852ee7cd606"
+  },
+  "date_session": {
+    "$date": "2024-04-02T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.05,
+  "exercise_user_list": [
+    {
+      "$oid": "66214d51eb766852ee7cd624"
+    },
+    {
+      "$oid": "66214d75eb766852ee7cd652"
+    },
+    {
+      "$oid": "66214d90eb766852ee7cd67e"
+    },
+    {
+      "$oid": "66214db0eb766852ee7cd6aa"
+    },
+    {
+      "$oid": "66214dc9eb766852ee7cd6d6"
+    },
+    {
+      "$oid": "66214de3eb766852ee7cd702"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:41:06.784Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:37:55.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214df4eb766852ee7cd736"
+  },
+  "date_session": {
+    "$date": "2024-04-04T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.05,
+  "exercise_user_list": [
+    {
+      "$oid": "66214e15eb766852ee7cd756"
+    },
+    {
+      "$oid": "66214e48eb766852ee7cd782"
+    },
+    {
+      "$oid": "66214e55eb766852ee7cd7ae"
+    },
+    {
+      "$oid": "66214e6ceb766852ee7cd7da"
+    },
+    {
+      "$oid": "66214e7feb766852ee7cd809"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:44:36.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:39:42.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e4b71c781f89cbd07d61"
+  },
+  "date_session": {
+    "$date": "2024-01-14T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70.3,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e4ee1c781f89cbd07d7f"
+    },
+    {
+      "$oid": "6620e5061c781f89cbd07dab"
+    },
+    {
+      "$oid": "6620e52a1c781f89cbd07dd7"
+    },
+    {
+      "$oid": "6620e5381c781f89cbd07e03"
+    },
+    {
+      "$oid": "6620e5441c781f89cbd07e2f"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:15:35.750Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:32:42.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e5551c781f89cbd07e65"
+  },
+  "date_session": {
+    "$date": "2024-01-16T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.3,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e5721c781f89cbd07e83"
+    },
+    {
+      "$oid": "6620e5881c781f89cbd07eaf"
+    },
+    {
+      "$oid": "6620e59f1c781f89cbd07edb"
+    },
+    {
+      "$oid": "6620e5ac1c781f89cbd07f07"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:18:13.504Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:32:49.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620eafc1c781f89cbd083df"
+  },
+  "date_session": {
+    "$date": "2024-01-28T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "6620eb0f1c781f89cbd083fd"
+    },
+    {
+      "$oid": "6620eb271c781f89cbd08429"
+    },
+    {
+      "$oid": "6620eb331c781f89cbd08455"
+    },
+    {
+      "$oid": "6620eb421c781f89cbd08481"
+    },
+    {
+      "$oid": "6620eb5c1c781f89cbd084ad"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:42:20.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:34:07.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620ebf91c781f89cbd0863b"
+  },
+  "date_session": {
+    "$date": "2024-02-01T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 68.95,
+  "exercise_user_list": [
+    {
+      "$oid": "6620ec2c1c781f89cbd08659"
+    },
+    {
+      "$oid": "6620ec3e1c781f89cbd08685"
+    },
+    {
+      "$oid": "6620ec591c781f89cbd086b1"
+    },
+    {
+      "$oid": "6620ec6d1c781f89cbd086e0"
+    },
+    {
+      "$oid": "6620ec801c781f89cbd0870c"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:46:33.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:34:35.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662116ed1c781f89cbd08aee"
+  },
+  "date_session": {
+    "$date": "2024-02-10T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.5,
+  "exercise_user_list": [
+    {
+      "$oid": "662117041c781f89cbd08b0c"
+    },
+    {
+      "$oid": "662117281c781f89cbd08b38"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T12:49:49.033Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:35:17.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662117a11c781f89cbd08c8d"
+  },
+  "date_session": {
+    "$date": "2024-02-15T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.05,
+  "exercise_user_list": [
+    {
+      "$oid": "662117d71c781f89cbd08cab"
+    },
+    {
+      "$oid": "662117e61c781f89cbd08cd7"
+    },
+    {
+      "$oid": "662117f11c781f89cbd08d03"
+    },
+    {
+      "$oid": "662117fb1c781f89cbd08d2f"
+    },
+    {
+      "$oid": "6621180d1c781f89cbd08d5b"
+    },
+    {
+      "$oid": "662118191c781f89cbd08d87"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T12:52:49.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:35:42.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662118971c781f89cbd08ec3"
+  },
+  "date_session": {
+    "$date": "2024-02-20T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 68.5,
+  "exercise_user_list": [
+    {
+      "$oid": "662118a81c781f89cbd08ee1"
+    },
+    {
+      "$oid": "662118c91c781f89cbd08f0d"
+    },
+    {
+      "$oid": "662118dc1c781f89cbd08f39"
+    },
+    {
+      "$oid": "662118e71c781f89cbd08f65"
+    },
+    {
+      "$oid": "662118f71c781f89cbd08f91"
+    },
+    {
+      "$oid": "6621190b1c781f89cbd08fbd"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T12:56:55.239Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:36:14.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662119191c781f89cbd08ff3"
+  },
+  "date_session": {
+    "$date": "2024-02-22T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 68.25,
+  "exercise_user_list": [
+    {
+      "$oid": "6621193a1c781f89cbd09011"
+    },
+    {
+      "$oid": "662119611c781f89cbd0903d"
+    },
+    {
+      "$oid": "6621196e1c781f89cbd09069"
+    },
+    {
+      "$oid": "662119871c781f89cbd09095"
+    },
+    {
+      "$oid": "662119981c781f89cbd090c1"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T12:59:05.893Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:36:30.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662119fc1c781f89cbd091fb"
+  },
+  "date_session": {
+    "$date": "2024-02-27T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 68.1,
+  "exercise_user_list": [
+    {
+      "$oid": "66211a101c781f89cbd09219"
+    },
+    {
+      "$oid": "66211a241c781f89cbd09245"
+    },
+    {
+      "$oid": "66211a361c781f89cbd09271"
+    },
+    {
+      "$oid": "66211a471c781f89cbd0929d"
+    },
+    {
+      "$oid": "66211a6c1c781f89cbd092c9"
+    },
+    {
+      "$oid": "66211a7b1c781f89cbd092f5"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T13:02:52.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:37:23.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214699eb766852ee7ccdf5"
+  },
+  "date_session": {
+    "$date": "2024-03-12T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "662146e9eb766852ee7cce15"
+    },
+    {
+      "$oid": "66214711eb766852ee7cce41"
+    },
+    {
+      "$oid": "66214727eb766852ee7cce6d"
+    },
+    {
+      "$oid": "662147aceb766852ee7cce99"
+    },
+    {
+      "$oid": "662147baeb766852ee7ccec5"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Fait à Sitges",
+  "createdAt": {
+    "$date": "2024-04-18T16:13:13.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:38:11.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214883eb766852ee7ccfff"
+  },
+  "date_session": {
+    "$date": "2024-03-17T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "662148a1eb766852ee7cd01f"
+    },
+    {
+      "$oid": "662148d3eb766852ee7cd04b"
+    },
+    {
+      "$oid": "662148deeb766852ee7cd077"
+    },
+    {
+      "$oid": "662148f4eb766852ee7cd0a3"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:21:23.884Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:38:35.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214908eb766852ee7cd0d7"
+  },
+  "date_session": {
+    "$date": "2024-03-19T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "6621492beb766852ee7cd0f7"
+    },
+    {
+      "$oid": "6621493feb766852ee7cd123"
+    },
+    {
+      "$oid": "6621494beb766852ee7cd14f"
+    },
+    {
+      "$oid": "6621495aeb766852ee7cd17b"
+    },
+    {
+      "$oid": "6621496ceb766852ee7cd1a7"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:23:36.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:38:40.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214b5aeb766852ee7cd427"
+  },
+  "date_session": {
+    "$date": "2024-03-28T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "66214bd1eb766852ee7cd445"
+    },
+    {
+      "$oid": "66214bf2eb766852ee7cd474"
+    },
+    {
+      "$oid": "66214c08eb766852ee7cd4a0"
+    },
+    {
+      "$oid": "66214c1eeb766852ee7cd4cc"
+    },
+    {
+      "$oid": "66214c63eb766852ee7cd4fa"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:33:30.902Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:38:24.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214f3aeb766852ee7cd941"
+  },
+  "date_session": {
+    "$date": "2024-04-11T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.05,
+  "exercise_user_list": [
+    {
+      "$oid": "66214f64eb766852ee7cd961"
+    },
+    {
+      "$oid": "66214f78eb766852ee7cd98d"
+    },
+    {
+      "$oid": "66214f8eeb766852ee7cd9b9"
+    },
+    {
+      "$oid": "66214fa5eb766852ee7cd9e5"
+    },
+    {
+      "$oid": "66214fc7eb766852ee7cda11"
+    },
+    {
+      "$oid": "66214fd6eb766852ee7cda3d"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:50:02.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:39:51.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214fe0eb766852ee7cda71"
+  },
+  "date_session": {
+    "$date": "2024-04-12T22:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.05,
+  "exercise_user_list": [
+    {
+      "$oid": "66214ffeeb766852ee7cda91"
+    },
+    {
+      "$oid": "66215011eb766852ee7cdabd"
+    },
+    {
+      "$oid": "66215021eb766852ee7cdae9"
+    },
+    {
+      "$oid": "6621503aeb766852ee7cdb15"
+    },
+    {
+      "$oid": "66215047eb766852ee7cdb41"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:52:48.354Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:39:55.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66215057eb766852ee7cdb75"
+  },
+  "date_session": {
+    "$date": "2024-04-16T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.05,
+  "exercise_user_list": [
+    {
+      "$oid": "66215078eb766852ee7cdb98"
+    },
+    {
+      "$oid": "6621508ceb766852ee7cdbc4"
+    },
+    {
+      "$oid": "66215097eb766852ee7cdbf0"
+    },
+    {
+      "$oid": "662150aceb766852ee7cdc1c"
+    },
+    {
+      "$oid": "662150cdeb766852ee7cdc4b"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Gêne au pied, pas de mollets",
+  "createdAt": {
+    "$date": "2024-04-18T16:54:47.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:39:59.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662257a62e60b636a08a6b08"
+  },
+  "date_session": {
+    "$date": "2024-04-19T11:38:14.815Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 68.9,
+  "exercise_user_list": [
+    {
+      "$oid": "6623638a12b51a849826a31d"
+    },
+    {
+      "$oid": "662363af12b51a849826a34a"
+    },
+    {
+      "$oid": "662363bd12b51a849826a377"
+    },
+    {
+      "$oid": "662363dd12b51a849826a3a8"
+    },
+    {
+      "$oid": "662363fe12b51a849826a3d5"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-19T11:38:14.849Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:43:20.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620eb831c781f89cbd08509"
+  },
+  "date_session": {
+    "$date": "2024-01-30T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 68.45,
+  "exercise_user_list": [
+    {
+      "$oid": "6620eb991c781f89cbd08527"
+    },
+    {
+      "$oid": "6620ebaf1c781f89cbd08553"
+    },
+    {
+      "$oid": "6620ebbd1c781f89cbd0857f"
+    },
+    {
+      "$oid": "6620ebcc1c781f89cbd085ab"
+    },
+    {
+      "$oid": "6620ebd91c781f89cbd085d7"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Pas de Upright row penché",
+  "createdAt": {
+    "$date": "2024-04-18T09:44:35.723Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:34:22.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662114e11c781f89cbd08790"
+  },
+  "date_session": {
+    "$date": "2024-02-04T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.4,
+  "exercise_user_list": [
+    {
+      "$oid": "6621156a1c781f89cbd087ae"
+    },
+    {
+      "$oid": "662115801c781f89cbd087da"
+    },
+    {
+      "$oid": "6621158f1c781f89cbd08806"
+    },
+    {
+      "$oid": "6621159e1c781f89cbd08832"
+    },
+    {
+      "$oid": "662115b71c781f89cbd0885e"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T12:41:05.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:34:52.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662117401c781f89cbd08b6e"
+  },
+  "date_session": {
+    "$date": "2024-02-12T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69,
+  "exercise_user_list": [
+    {
+      "$oid": "662117531c781f89cbd08b8c"
+    },
+    {
+      "$oid": "662117641c781f89cbd08bb8"
+    },
+    {
+      "$oid": "6621177f1c781f89cbd08c2b"
+    },
+    {
+      "$oid": "662117931c781f89cbd08c57"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T12:51:12.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:35:26.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662118281c781f89cbd08dbf"
+  },
+  "date_session": {
+    "$date": "2024-02-18T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.05,
+  "exercise_user_list": [
+    {
+      "$oid": "6621183b1c781f89cbd08ddd"
+    },
+    {
+      "$oid": "662118491c781f89cbd08e09"
+    },
+    {
+      "$oid": "6621185e1c781f89cbd08e35"
+    },
+    {
+      "$oid": "6621186a1c781f89cbd08e61"
+    },
+    {
+      "$oid": "662118811c781f89cbd08e8d"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T12:55:04.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:35:55.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214421eb766852ee7ccacf"
+  },
+  "date_session": {
+    "$date": "2024-02-29T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 68.1,
+  "exercise_user_list": [
+    {
+      "$oid": "66214470eb766852ee7ccb07"
+    },
+    {
+      "$oid": "662144d4eb766852ee7ccb33"
+    },
+    {
+      "$oid": "662144eaeb766852ee7ccb62"
+    },
+    {
+      "$oid": "66214511eb766852ee7ccb8e"
+    },
+    {
+      "$oid": "66214525eb766852ee7ccbba"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:02:41.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:37:33.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6621460beb766852ee7ccd1d"
+  },
+  "date_session": {
+    "$date": "2024-03-10T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "66214632eb766852ee7ccd3d"
+    },
+    {
+      "$oid": "6621465deb766852ee7ccd69"
+    },
+    {
+      "$oid": "6621466feb766852ee7ccd95"
+    },
+    {
+      "$oid": "66214688eb766852ee7ccdc1"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Fait à Sitges",
+  "createdAt": {
+    "$date": "2024-04-18T16:10:51.880Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:38:05.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214976eb766852ee7cd1db"
+  },
+  "date_session": {
+    "$date": "2024-03-21T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "66214994eb766852ee7cd1fb"
+    },
+    {
+      "$oid": "66214a52eb766852ee7cd227"
+    },
+    {
+      "$oid": "66214a60eb766852ee7cd253"
+    },
+    {
+      "$oid": "66214a7beb766852ee7cd27f"
+    },
+    {
+      "$oid": "66214a91eb766852ee7cd2ab"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Fait à Sitges",
+  "createdAt": {
+    "$date": "2024-04-18T16:25:26.636Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:38:45.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214e95eb766852ee7cd83d"
+  },
+  "date_session": {
+    "$date": "2024-04-07T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.05,
+  "exercise_user_list": [
+    {
+      "$oid": "66214ed8eb766852ee7cd85d"
+    },
+    {
+      "$oid": "66214ef3eb766852ee7cd889"
+    },
+    {
+      "$oid": "66214f07eb766852ee7cd8b5"
+    },
+    {
+      "$oid": "66214f19eb766852ee7cd8e1"
+    },
+    {
+      "$oid": "66214f2deb766852ee7cd90d"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:47:17.381Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:39:46.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e3c71c781f89cbd07b54"
+  },
+  "date_session": {
+    "$date": "2024-01-09T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.1,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e3df1c781f89cbd07b72"
+    },
+    {
+      "$oid": "6620e3f51c781f89cbd07b9d"
+    },
+    {
+      "$oid": "6620e4021c781f89cbd07bcc"
+    },
+    {
+      "$oid": "6620e40d1c781f89cbd07bf8"
+    },
+    {
+      "$oid": "6620e42c1c781f89cbd07c27"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Pas de machine pour les mollets",
+  "createdAt": {
+    "$date": "2024-04-18T09:11:35.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:31:46.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e71d1c781f89cbd0818f"
+  },
+  "date_session": {
+    "$date": "2024-01-22T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 70.35,
+  "exercise_user_list": [
+    {
+      "$oid": "6620e7381c781f89cbd081ad"
+    },
+    {
+      "$oid": "6620e7751c781f89cbd081d9"
+    },
+    {
+      "$oid": "6620e7851c781f89cbd08205"
+    },
+    {
+      "$oid": "6620e7921c781f89cbd08231"
+    },
+    {
+      "$oid": "6620e7a01c781f89cbd0825d"
+    },
+    {
+      "$oid": "6620e7ad1c781f89cbd08289"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T09:25:49.399Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:33:56.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6621163c1c781f89cbd089e8"
+  },
+  "date_session": {
+    "$date": "2024-02-08T23:00:00.000Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 69.05,
+  "exercise_user_list": [
+    {
+      "$oid": "6621164f1c781f89cbd08a06"
+    },
+    {
+      "$oid": "6621167e1c781f89cbd08a32"
+    },
+    {
+      "$oid": "6621169e1c781f89cbd08a5e"
+    },
+    {
+      "$oid": "662116ae1c781f89cbd08a8a"
+    },
+    {
+      "$oid": "662116bd1c781f89cbd08ab6"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T12:46:52.028Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:35:03.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662119a81c781f89cbd090f7"
+  },
+  "date_session": {
+    "$date": "2024-02-25T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 68.1,
+  "exercise_user_list": [
+    {
+      "$oid": "662119b71c781f89cbd09115"
+    },
+    {
+      "$oid": "662119c11c781f89cbd09141"
+    },
+    {
+      "$oid": "662119cc1c781f89cbd0916d"
+    },
+    {
+      "$oid": "662119dd1c781f89cbd09199"
+    },
+    {
+      "$oid": "662119ec1c781f89cbd091c5"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T13:01:28.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:36:50.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214549eb766852ee7ccbee"
+  },
+  "date_session": {
+    "$date": "2024-03-08T23:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "66214598eb766852ee7ccc11"
+    },
+    {
+      "$oid": "662145adeb766852ee7ccc3d"
+    },
+    {
+      "$oid": "662145b8eb766852ee7ccc69"
+    },
+    {
+      "$oid": "662145ceeb766852ee7ccc95"
+    },
+    {
+      "$oid": "662145e5eb766852ee7cccc1"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Fait à Sitges",
+  "createdAt": {
+    "$date": "2024-04-18T16:07:37.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:37:12.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214aafeb766852ee7cd2df"
+  },
+  "date_session": {
+    "$date": "2024-03-25T23:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "66214ad8eb766852ee7cd317"
+    },
+    {
+      "$oid": "66214af7eb766852ee7cd343"
+    },
+    {
+      "$oid": "66214b14eb766852ee7cd36f"
+    },
+    {
+      "$oid": "66214b23eb766852ee7cd39b"
+    },
+    {
+      "$oid": "66214b38eb766852ee7cd3c7"
+    },
+    {
+      "$oid": "66214b51eb766852ee7cd3f3"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:30:39.156Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:38:50.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66214c7ceb766852ee7cd52e"
+  },
+  "date_session": {
+    "$date": "2024-03-31T22:00:00.000Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 69.35,
+  "exercise_user_list": [
+    {
+      "$oid": "66214cb3eb766852ee7cd54e"
+    },
+    {
+      "$oid": "66214ccbeb766852ee7cd57a"
+    },
+    {
+      "$oid": "66214cffeb766852ee7cd5a6"
+    },
+    {
+      "$oid": "66214d19eb766852ee7cd5d2"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-18T16:38:20.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T06:38:19.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a1a86b68bb9c466f83396"
+  },
+  "date_session": null,
+  "type_session": "",
+  "body_weight": 42,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "662a1a4eb68bb9c466f83369"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-25T08:55:34.794Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T08:55:49.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bb4a5996e7ca68ae83356"
+  },
+  "date_session": {
+    "$date": "2024-04-26T14:05:25.223Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 70,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "662b9576996e7ca68ae82c53"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-26T14:05:25.260Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T14:05:34.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d4c62ee9fb5ae5e8018f4"
+  },
+  "date_session": {
+    "$date": "2024-04-27T19:05:06.055Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 66,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "662d4b7fee9fb5ae5e8018cc"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-27T19:05:06.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T19:05:06.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d4d1eee9fb5ae5e80191e"
+  },
+  "date_session": {
+    "$date": "2024-04-27T19:08:14.903Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 66,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "662d4b7fee9fb5ae5e8018cc"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-27T19:08:14.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T19:08:14.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d4fb834b92675fca59fae"
+  },
+  "date_session": {
+    "$date": "2024-04-27T19:19:19.947Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 66,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "662d4b7fee9fb5ae5e8018cc"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-27T19:19:20.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T19:19:20.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d4feb34b92675fca59fdc"
+  },
+  "date_session": {
+    "$date": "2024-04-27T19:20:11.191Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 66,
+  "exercise_user_list": [
+    {
+      "$oid": "662d5096642922844676d639"
+    }
+  ],
+  "is_done": false,
+  "owner": {
+    "$oid": "662d4b7fee9fb5ae5e8018cc"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-27T19:20:11.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T19:24:25.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e6d25bb6aa6c1d5f5f693"
+  },
+  "date_session": {
+    "$date": "2024-04-28T15:37:09.779Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 67,
+  "exercise_user_list": [
+    {
+      "$oid": "662e6e45d14c8daae4787c99"
+    }
+  ],
+  "is_done": false,
+  "owner": {
+    "$oid": "662e69dd1e6a4069067b4e02"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-28T15:37:09.829Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T15:41:57.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662eaacb528d21e05829fbdf"
+  },
+  "date_session": {
+    "$date": "2024-04-28T20:00:11.242Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 68.9,
+  "exercise_user_list": [
+    {
+      "$oid": "662eab50528d21e05829fbf2"
+    },
+    {
+      "$oid": "662eab79528d21e05829fc0d"
+    },
+    {
+      "$oid": "662eabf1528d21e05829fc7f"
+    },
+    {
+      "$oid": "662eac19528d21e05829fc9a"
+    },
+    {
+      "$oid": "662eac4c528d21e05829fcb5"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-28T20:00:11.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T20:06:50.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662eac64528d21e05829fcd1"
+  },
+  "date_session": {
+    "$date": "2024-04-28T20:07:00.553Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 68.9,
+  "exercise_user_list": [
+    {
+      "$oid": "662eacd0528d21e05829fd08"
+    },
+    {
+      "$oid": "662eace0528d21e05829fd23"
+    },
+    {
+      "$oid": "662ead0e528d21e05829fd3e"
+    },
+    {
+      "$oid": "662ead22528d21e05829fd59"
+    },
+    {
+      "$oid": "662ead48528d21e05829fd74"
+    },
+    {
+      "$oid": "662ead6a528d21e05829fd8f"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Pas de mollet : douleur orteil",
+  "createdAt": {
+    "$date": "2024-04-28T20:07:00.577Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T20:11:33.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ead8f528d21e05829fdab"
+  },
+  "date_session": {
+    "$date": "2024-04-28T20:11:59.022Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 68.9,
+  "exercise_user_list": [
+    {
+      "$oid": "662eadd7a9ae288bb3abe852"
+    },
+    {
+      "$oid": "662eadeca9ae288bb3abe867"
+    },
+    {
+      "$oid": "662eae08d03b190d5c2ed02c"
+    },
+    {
+      "$oid": "662eae17d03b190d5c2ed045"
+    },
+    {
+      "$oid": "662eae29d03b190d5c2ed054"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-04-28T20:11:59.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T20:14:42.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6631476efe6ccd6524ecbdac"
+  },
+  "date_session": {
+    "$date": "2024-04-30T19:33:02.159Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 68.9,
+  "exercise_user_list": [
+    {
+      "$oid": "66314c13b13b3cb28c244b53"
+    },
+    {
+      "$oid": "66314eb723232cf67c3226b9"
+    },
+    {
+      "$oid": "663150678af9de8387c4862c"
+    },
+    {
+      "$oid": "663151f32bf68888db3aac88"
+    },
+    {
+      "$oid": "663153642bf68888db3aaca3"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "Fatigue - séance à 21h30",
+  "createdAt": {
+    "$date": "2024-04-30T19:33:02.218Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T20:24:57.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632bf2bc341577fcd196139"
+  },
+  "date_session": {
+    "$date": "2024-05-01T22:16:11.258Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 55,
+  "exercise_user_list": [
+    {
+      "$oid": "6632bf5c8f60beca3f329e0f"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "6632b9a850c55f75a1b44e5a"
+  },
+  "comment": "Hello",
+  "createdAt": {
+    "$date": "2024-05-01T22:16:11.512Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T22:17:07.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632bf7e8f60beca3f329e53"
+  },
+  "date_session": {
+    "$date": "2024-05-01T22:17:34.045Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 55,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "6632b9a850c55f75a1b44e5a"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-05-01T22:17:34.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T22:17:34.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632c0161869c62f196c1a37"
+  },
+  "date_session": {
+    "$date": "2024-05-01T22:20:06.857Z"
+  },
+  "type_session": "Upper B",
+  "body_weight": 55,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "6632b9a850c55f75a1b44e5a"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-05-01T22:20:06.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T22:20:06.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632c0181869c62f196c1a40"
+  },
+  "date_session": {
+    "$date": "2024-05-01T22:20:08.689Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 55,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "6632b9a850c55f75a1b44e5a"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-05-01T22:20:08.731Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T22:20:08.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632c0191869c62f196c1a44"
+  },
+  "date_session": {
+    "$date": "2024-05-01T22:20:09.575Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 55,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "6632b9a850c55f75a1b44e5a"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-05-01T22:20:09.612Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T22:20:09.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632c01d1869c62f196c1a53"
+  },
+  "date_session": {
+    "$date": "2024-05-01T22:20:13.707Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 55,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "6632b9a850c55f75a1b44e5a"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-05-01T22:20:13.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T22:20:13.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66390b8d06daf47f89ea5096"
+  },
+  "date_session": {
+    "$date": "2024-05-06T16:55:41.777Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 68.9,
+  "exercise_user_list": [
+    {
+      "$oid": "663917e99fa614d0f521cb2e"
+    },
+    {
+      "$oid": "66391a56103ed1036835ccb9"
+    },
+    {
+      "$oid": "66391bc8012e6fe0561b1952"
+    },
+    {
+      "$oid": "66391d40012e6fe0561b1971"
+    },
+    {
+      "$oid": "66391eb0e8b414eb846ed94c"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-05-06T16:55:41.868Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T19:10:27.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cd90d4e995eed85a94e3f"
+  },
+  "date_session": {
+    "$date": "2024-05-10T22:00:00.000Z"
+  },
+  "type_session": "Lower",
+  "body_weight": 68.9,
+  "exercise_user_list": [
+    {
+      "$oid": "663f8a7d421d43234a2f7a14"
+    },
+    {
+      "$oid": "663f8cde07ab2e9f49439b20"
+    },
+    {
+      "$oid": "663f8e888ff80353d011add0"
+    },
+    {
+      "$oid": "663f8fac8ff80353d011adeb"
+    }
+  ],
+  "is_done": true,
+  "owner": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-05-09T14:09:17.087Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-11T17:41:08.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66407b9a46b06bc57375bc1a"
+  },
+  "date_session": {
+    "$date": "2024-05-12T08:19:38.005Z"
+  },
+  "type_session": "Upper A",
+  "body_weight": 40,
+  "exercise_user_list": [],
+  "is_done": false,
+  "owner": {
+    "$oid": "662cf0190cce8e5264a97cbc"
+  },
+  "comment": "",
+  "createdAt": {
+    "$date": "2024-05-12T08:19:38.154Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-12T08:19:38.154Z"
+  },
+  "__v": 0
+}]

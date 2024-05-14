@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "661659b1cb781a966471dab3"
+  },
+  "firstName": "Julien",
+  "lastName": "THOMAS",
+  "email": "pro.julien.thomas@gmail.com",
+  "password": "$2b$10$SSeXLpk/lKbVFDpZ5EG5e.BXUlCLMG6xQlfoPU9LOIXFJqY9kk68a",
+  "createdAt": {
+    "$date": "2024-04-10T09:19:45.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-22T08:22:41.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cebdfb868e6ba243dd00f"
+  },
+  "firstName": "Juju",
+  "lastName": "THOMAS",
+  "email": "juj@gmail.com",
+  "password": "$2b$10$coiYw6VYACkpAPJ1YYStWe/VbyJQLYQtKsoV/Mjez10eDCF/6ozJS",
+  "createdAt": {
+    "$date": "2024-04-27T12:13:19.632Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T12:13:19.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628ce02546af46083d044a1"
+  },
+  "firstName": "TestFirstName",
+  "lastName": "TestLastName",
+  "email": "email@mail.com",
+  "password": "$2b$10$AhiCBLvfO1lg49P5nhADIuoDeDtO7DYgv1A6JSvB9voVVv5Yn4SU.",
+  "createdAt": {
+    "$date": "2024-04-24T09:16:50.778Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-24T09:16:50.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cf12a1101706c8a539819"
+  },
+  "firstName": "logindirect",
+  "lastName": "logindirect",
+  "email": "logindirect@gmail.com",
+  "password": "$2b$10$Qhby8uTPKmcN5J0h15QrxeRc48ujntplFreci6WXI7q4VsOtTPU4G",
+  "createdAt": {
+    "$date": "2024-04-27T12:35:54.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T12:35:54.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b94d4996e7ca68ae82c50"
+  },
+  "firstName": "John",
+  "lastName": "Bravo",
+  "email": "qwerty@gmail.com",
+  "password": "$2b$10$QqIKEAjInjeYBN6AtYNHZeZpILUTfd5IV3q3QE32sFTZUIZ4mjz7a",
+  "createdAt": {
+    "$date": "2024-04-26T11:49:40.544Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T11:49:40.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cef92ded217bdb028f1ea"
+  },
+  "firstName": "Juj2",
+  "lastName": "THOMAS",
+  "email": "juj2@gmail.com",
+  "password": "$2b$10$hdCZ.jiXPMhUkgvXopLr7OiPz4LKBt5UEzg58t3sdFVD9mTToM0dK",
+  "createdAt": {
+    "$date": "2024-04-27T12:29:06.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T12:29:06.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cf0190cce8e5264a97cbc"
+  },
+  "firstName": "test",
+  "lastName": "test",
+  "email": "test@gmail.com",
+  "password": "$2b$10$ifpFHluGiAD7aEWpiOxN5eh5addSmhJpqsKzxJMobwY7d92UT0WWe",
+  "createdAt": {
+    "$date": "2024-04-27T12:31:21.232Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T12:31:21.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a1a4eb68bb9c466f83369"
+  },
+  "firstName": "test",
+  "lastName": "test",
+  "email": "test@test.test",
+  "password": "$2b$10$D34YP7o9hD481yjj0I/DSOmN8MUNtH0ctOIYBt31muQlLFilH3K2O",
+  "createdAt": {
+    "$date": "2024-04-25T08:54:38.485Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T08:54:38.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662cf297b8bf78184b12897c"
+  },
+  "firstName": "Bjn",
+  "lastName": "Nj",
+  "email": "louisthomas.pro@gmail.com",
+  "password": "$2b$10$xYiHQ44ZVoQl1qVE1svPuesiahHX4Ym1uNIlC1MUBZRWdFEk2OQPa",
+  "createdAt": {
+    "$date": "2024-04-27T12:41:59.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T12:41:59.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b9576996e7ca68ae82c53"
+  },
+  "firstName": "Bou",
+  "lastName": "bou",
+  "email": "bou@gmail.com",
+  "password": "$2b$10$6hHqdsCWln6Y0aVc1BR5BureAu0Al.1QbusrfD/rb0h51P5Qd0jpS",
+  "createdAt": {
+    "$date": "2024-04-26T11:52:22.395Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T11:52:22.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d49bcee9fb5ae5e801891"
+  },
+  "firstName": "TestFirstNameFlyIO",
+  "lastName": "TestLastNameFlyIO",
+  "email": "emailflyio@mail.com",
+  "password": "$2b$10$eWFaG12yl84qkA1vQXHECedwPo8yspe6a62f/HUAf5jVzKWfYJhoW",
+  "createdAt": {
+    "$date": "2024-04-27T18:53:48.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T18:53:48.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d4b7fee9fb5ae5e8018cc"
+  },
+  "firstName": "Jean-Marie",
+  "lastName": "THOMAS",
+  "email": "thomas.jma@gmail.com",
+  "password": "$2b$10$PgorFMfNERz8TbETObTgxek.JjB6B8IHm3HyCXTJEzZ6UQT6RReEO",
+  "createdAt": {
+    "$date": "2024-04-27T19:01:19.437Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T19:01:19.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e69dd1e6a4069067b4e02"
+  },
+  "firstName": "Anne ",
+  "lastName": "Thomas",
+  "email": "thomas.anne28@gmail.com",
+  "password": "$2b$10$dYyw4qDzSB/NyErNHGIQSuCyYs.VsL.6doIB1eQ5iccFA9vxk0RfS",
+  "createdAt": {
+    "$date": "2024-04-28T15:23:09.055Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T15:23:09.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632b9a850c55f75a1b44e5a"
+  },
+  "firstName": "Sarah Lena",
+  "lastName": "Martinez",
+  "email": "sarahlenamartinez@gmail.com",
+  "password": "$2b$10$PAfjGtKwxv/c.Iax64AvBOmicrUT4WG2HfGlIQEN9PzBwlyBPYH1a",
+  "createdAt": {
+    "$date": "2024-05-01T21:52:40.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-01T21:52:40.879Z"
+  },
+  "__v": 0
+}]
